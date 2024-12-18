@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card, CardContent } from '@/components/ui/card';
-import { ArrowRight, TrendingUp, Users, Target } from 'lucide-react';
+import { TrendingUp, Users, Target } from 'lucide-react';
 
 const DataStory = () => {
   return (
