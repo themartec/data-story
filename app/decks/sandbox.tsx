@@ -19,7 +19,7 @@ const Sandbox = () => {
             <div className="p-6 bg-blue-50 rounded-lg">
               <div className="flex items-center justify-between mb-4">
                 <div className="text-lg font-bold text-black">1. Visit Test Environment</div>
-                <div className="text-sm bg-blue-200 px-3 py-1 rounded">sandbox.careers.dropbox.com</div>
+                <div className="text-sm bg-blue-200 px-3 py-1 rounded">sandbox.careers.customer.com</div>
               </div>
               <div className="space-y-2 text-black">
                 <div className="text-sm">• Open sandbox environment in your browser</div>

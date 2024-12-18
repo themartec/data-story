@@ -49,11 +49,11 @@ const HowItWorks = () => {
             {/* Step 2: User Journey Example */}
             <Card className="bg-gray-50">
               <CardContent className="p-6">
-                <div className="text-lg font-bold mb-4 text-black">Example: Dropbox Implementation</div>
+                <div className="text-lg font-bold mb-4 text-black">Example: Customer Implementation</div>
                 <div className="space-y-4">
                   <div className="flex items-center gap-4">
                     <div className="flex-1 p-4 bg-white rounded-lg border text-black">
-                      <div className="font-bold mb-2">Visit careers.dropbox.com</div>
+                      <div className="font-bold mb-2">Visit careers.customer.com</div>
                       <div className="text-sm">
                         • Widget automatically loads<br />
                         • Tracking begins on page load<br />

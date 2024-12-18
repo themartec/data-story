@@ -53,12 +53,12 @@ const DataStory = () => {
         </CardContent>
       </Card>
 
-      {/* Dropbox Case Study - Expanded Analysis */}
+      {/* Customer Case Study - Expanded Analysis */}
       <Card className="bg-white p-6 text-black">
         <CardContent>
           <div className="flex items-center justify-between mb-6">
-            <div className="text-2xl font-bold">Dropbox Case Study</div>
-            <div className="text-gray-500">Q4 2024</div>
+            <div className="text-2xl font-bold">Customer Case Study (Job Boards)</div>
+            <div className="text-gray-500 font-bold">Q4 2024</div>
           </div>
           
           {/* Current Performance Metrics */}
